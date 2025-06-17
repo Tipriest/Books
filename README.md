@@ -7,3 +7,4 @@ Hi~
 
 ## 程序基础
 1. [Python极客项目编程](./python_playground/)
+2. [Python从零基础到项目编程](./python_three_cool_cat/)
