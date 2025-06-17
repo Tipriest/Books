@@ -1,0 +1,3 @@
+[submodule "blender_tools_description_and_practice"]
+	path = blender_tools_description_and_practice
+	url = git@github.com:Tipriest/blender_tools_description_and_practice.git
