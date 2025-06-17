@@ -4,3 +4,6 @@
 [submodule "python_playground"]
 	path = python_playground
 	url = git@github.com:Tipriest/python_playground.git
+[submodule "python_three_cool_cat"]
+	path = python_three_cool_cat
+	url = git@github.com:Tipriest/python_three_cool_cat.git
