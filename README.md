@@ -4,3 +4,6 @@ Hi~
 
 ## 工业设计
 1. [Blender+AI工具详解与实战](./blender_tools_description_and_practice/)
+
+## 程序基础
+1. [Python极客项目编程](./python_playground/)
