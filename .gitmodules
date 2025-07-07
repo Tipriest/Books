@@ -7,3 +7,6 @@
 [submodule "python_three_cool_cat"]
 	path = python_three_cool_cat
 	url = git@github.com:Tipriest/python_three_cool_cat.git
+[submodule "Hands-on-RL"]
+	path = Hands-on-RL
+	url = git@github.com:Tipriest/Hands-on-RL.git
