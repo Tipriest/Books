@@ -10,3 +10,6 @@
 [submodule "Hands-on-RL"]
 	path = Hands-on-RL
 	url = git@github.com:Tipriest/Hands-on-RL.git
+[submodule "joyrl-book"]
+	path = joyrl-book
+	url = git@github.com:datawhalechina/joyrl-book.git
